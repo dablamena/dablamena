@@ -74,10 +74,10 @@
   <a href="https://co.linkedin.com/in/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-318A80?style=flat&logo=logmein&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://www.facebook.com/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-327FE3?style=flat&logo=Facebook&logoColor=white" alt="social-media-logo"/></a>
   <a href="https://www.behance.net/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-572364?style=flat&logo=Behance&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.artstation.com/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-Francorismo-900F10?style=flate&logo=artstation&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.reddit.com/user/Dablandonm/" target="_blank"><img src="https://img.shields.io/badge/-Francorismo-FC5A00?style=flat&logo=Reddit&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.instagram.com/dablandonm/" target="_blank"><img src="https://img.shields.io/badge/-Francorismo-FFA900?style=flat&logo=Instagram&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://twitter.com/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-Francorismo-777777?style=flate&logo=x&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.artstation.com/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-Dablandonm-900F10?style=flate&logo=artstation&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.reddit.com/user/dablandonm/" target="_blank"><img src="https://img.shields.io/badge/-Dablandonm-FC5A00?style=flat&logo=Reddit&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.instagram.com/dablandonm/" target="_blank"><img src="https://img.shields.io/badge/-Dablandonm-FFA900?style=flat&logo=Instagram&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://twitter.com/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-Dablandonm-777777?style=flate&logo=x&logoColor=white" alt="social-media-logo"/></a>
 </p>
 
 <div align="center">
