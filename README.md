@@ -1,7 +1,7 @@
 ### Hi there, I'm David 👋
 
 <!--
-**dablandonm/dablandonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dablandoma/dablandoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- ## 👋 &nbsp;Hey there! I'm Franco -->
 
@@ -14,13 +14,13 @@
 
 🔎 &nbsp;Flowing from Backend to *Frontend*. I just love exploring new techs and creative fields.
 
-🌱 &nbsp;In my free time, I pursue *Graphic Design* and *Visual Arts* projects as some of my passions.
+🌱 &nbsp;In my free time, I pursue *Interactive Design* and *Visual Arts* projects as some of my passions.
 
-🧠 &nbsp;I'm on track for learning more about *UX / UI Design*. Also into *calisthenics*.
+🧠 &nbsp;I'm on track for learning more about *UX / UI Design*. Also into *bodybuilding*.
 
 💬 &nbsp;Feel free to reach me out for working on any of your potential ideas... or just for a chat too.
 
-📭 &nbsp;You can send me an email at dablandonm@gmail.com*. I'll try to respond as soon as I can.
+📭 &nbsp;You can send me an email at *dablandoma@gmail.com*. I'll try to respond as soon as I can.
 
 📄 &nbsp;Have a look at my profile for more details about me. I'm open to feedback and suggestions!
 
@@ -62,8 +62,8 @@
 
 <table style="width:100%" align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=dablandonm&show_icons=true&theme=transparent&text_color=AAAAAA&ring_color=AAAAAA&icon_color=A88DD9&locale=en&hide_title=true&hide_border=true" alt="dablandonm-stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dablandonm&theme=transparent&text_color=AAAAAA&hide_border=true&hide_title=true&langs_count=10&layout=compact" alt="dablandonm-stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dablandoma&show_icons=true&theme=transparent&text_color=AAAAAA&ring_color=AAAAAA&icon_color=A88DD9&locale=en&hide_title=true&hide_border=true" alt="dablandoma-stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dablandoma&theme=transparent&text_color=AAAAAA&hide_border=true&hide_title=true&langs_count=10&layout=compact" alt="dablandoma-stats"></td>
   </tr>
 </table>
 
@@ -71,13 +71,13 @@
 ### ☎️ &nbsp;Contact Me
 
 <p align="center">
-  <a href="https://co.linkedin.com/in/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-318A80?style=flat&logo=logmein&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.facebook.com/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-327FE3?style=flat&logo=Facebook&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.behance.net/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-572364?style=flat&logo=Behance&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.artstation.com/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-Dablandonm-900F10?style=flate&logo=artstation&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.reddit.com/user/dablandonm/" target="_blank"><img src="https://img.shields.io/badge/-Dablandonm-FC5A00?style=flat&logo=Reddit&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://www.instagram.com/dablandonm/" target="_blank"><img src="https://img.shields.io/badge/-Dablandonm-FFA900?style=flat&logo=Instagram&logoColor=white" alt="social-media-logo"/></a>
-  <a href="https://twitter.com/dablandonm" target="_blank"><img src="https://img.shields.io/badge/-Dablandonm-777777?style=flate&logo=x&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://co.linkedin.com/in/dablandoma" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-318A80?style=flat&logo=logmein&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.facebook.com/dablandoma" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-327FE3?style=flat&logo=Facebook&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.behance.net/dablandoma" target="_blank"><img src="https://img.shields.io/badge/-David Blandón Mena-572364?style=flat&logo=Behance&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.artstation.com/dablandoma" target="_blank"><img src="https://img.shields.io/badge/-Dablandoma-900F10?style=flate&logo=artstation&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.reddit.com/user/dablandoma/" target="_blank"><img src="https://img.shields.io/badge/-Dablandoma-FC5A00?style=flat&logo=Reddit&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://www.instagram.com/dablandoma/" target="_blank"><img src="https://img.shields.io/badge/-Dablandoma-FFA900?style=flat&logo=Instagram&logoColor=white" alt="social-media-logo"/></a>
+  <a href="https://twitter.com/dablandoma" target="_blank"><img src="https://img.shields.io/badge/-Dablandoma-777777?style=flate&logo=x&logoColor=white" alt="social-media-logo"/></a>
 </p>
 
 <div align="center">
