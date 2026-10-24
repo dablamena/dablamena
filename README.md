@@ -12,7 +12,7 @@
 
 🎓 &nbsp;Currently studying *Software Development* at Instituto Tecnológico Metropolitano and Riwi.
 
-🔎 &nbsp;Flowing from Backend to *Frontend*. I just love exploring new techs and creative fields.
+🔎 &nbsp;Flowing from *Backend* to *Frontend*. I just love exploring new techs and creative fields.
 
 🌱 &nbsp;In my free time, I pursue *Interactive Design* and *Visual Arts* projects as some of my passions.
 
